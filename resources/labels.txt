@@ -1,0 +1,4 @@
+0 onion
+1 pepper
+2 potato
+3 salad
