@@ -24,5 +24,11 @@
 3. 'image_classification.py' 실행
 4. ESC 누르면 종료
 
+## 실행 화면
+![image](https://github.com/kingodjerry/tm002/assets/143167244/153b2b33-a35b-40a4-84f9-d78e78e0e16c) ![image](https://github.com/kingodjerry/tm002/assets/143167244/2cf1376d-ac13-4b5a-98c4-eb94ca91846f) ![image](https://github.com/kingodjerry/tm002/assets/143167244/a11b8359-3431-4f04-bf9a-2185b967ecbe)
+
+
+
+
 ## 활용
 냉장고 속 남은 식재료를 파악하는 데 사용될 수 있습니다. 식재료를 파악한 후, 남은 식재료를 사용하여 만들 수 있는 레시피를 추천하는 알고리즘을 구현할 수 있습니다. 
