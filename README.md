@@ -6,7 +6,7 @@
 
 ### Model Accuracy
 ![image](https://github.com/kingodjerry/tm002/assets/143167244/50b78fa8-9625-453d-947e-7d071e866e2f)
-### loss value
+### Loss Value
 ![image](https://github.com/kingodjerry/tm002/assets/143167244/cb9753d2-3b4c-49c9-b068-fe7cbd089f80)
 
 ## 사용 언어
